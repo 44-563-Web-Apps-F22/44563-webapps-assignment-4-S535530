@@ -1,7 +1,7 @@
 p.song {font: 100;font-family: 'Times New Roman', Times, serif;color: black;}
 p.speech {font: 100;font-family: 'Times New Roman', Times, serif;color: black;}
 p.directions.hover {font: 100;font-family: 'Times New Roman', Times, serif;color: black;background-color: aliceblue;}
-p.name:hover {font: 100;font-family: 'Times New Roman', Times, serif;color: black;box-shadow: 2cm,olive;border: 4mm;}
+p.name:hover {font: 100;font-family: 'Times New Roman', Times, serif;color: black;box-shadow: 2cm,olive;border: 4cm;}
 #giuseppeta {color: aqua;}
 #marcoita {color: aquamarine;}
 #group {color: blueviolet;}
