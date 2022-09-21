@@ -3,7 +3,7 @@ p.speech {font: 100;font-family: 'Times New Roman', Times, serif;color: black;}
 p.directions.hover {font: 100;font-family: 'Times New Roman', Times, serif;color: black;background-color: aliceblue;}
 #name:hover {font: 100;font-family: 'Times New Roman', Times, serif;color: black;box-shadow: 2cm,olive;border: 4mm;}
 #giuseppeta {color: aqua;}
-#marcoita {color: aquamarine;box-shadow: 2cm,olive;border: 4mm;}
+#marcoita.hover {color: aquamarine;box-shadow: 2cm,olive;border: 4mm;}
 #group {color: blueviolet;}
 #fiametta {color: chocolate;}
 #vittoria {color: orangered;}
