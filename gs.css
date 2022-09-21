@@ -1,9 +1,10 @@
 p.song {font: 100;font-family: 'Times New Roman', Times, serif;color: black;}
 p.speech {font: 100;font-family: 'Times New Roman', Times, serif;color: black;}
-p.directions {font: 100;font-family: 'Times New Roman', Times, serif;color: black;background-color: aliceblue;}
+p.directions.hover {font: 100;font-family: 'Times New Roman', Times, serif;color: black;background-color: aliceblue;}
 #name {font: 100;font-family: 'Times New Roman', Times, serif;color: black;}
 #giuseppeta {color: aqua;}
 #marcoita {color: aquamarine;}
 #group {color: blueviolet;}
 #fiametta {color: chocolate;}
 #vittoria {color: orangered;}
+#singer {border: 2cm;color: blue;text-align: center;padding: 1cm;margin: 1cm;}
