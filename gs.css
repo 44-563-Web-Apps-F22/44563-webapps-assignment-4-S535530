@@ -4,10 +4,15 @@ p.directions.hover {font: 100;font-family: 'Times New Roman', Times, serif;color
 p.name:hover {text-shadow: 2cm,black;border: 4cm;}
 p:hover {text-shadow: 2cm,olive;border: 4cm;}
 #giuseppeta {color: aqua;}
-#giuseppeta:hover{color: red}
+#giuseppeta:hover{text-shadow: 2px 2px 5px red}
 #marcoita {color: aquamarine;}
+#marcoita:hover {text-shadow: 2px 2px 5px red}
 #group {color: blueviolet;}
+#group:hover {text-shadow: 2px 2px 5px red}
 #fiametta {color: chocolate;}
+#fiametta:hover {text-shadow: 2px 2px 5px red}
 #vittoria {color: orangered;}
+#vittoria:hover {text-shadow: 2px 2px 5px red}
 #antoniatte {color: darkred;}
+#antoniatte:hover {text-shadow: 2px 2px 5px red}
 #singer {border: 1cm;color: blue;text-align: center;padding: 2cm;margin: 2cm;}
