@@ -4,6 +4,7 @@ p.directions.hover {font: 100;font-family: 'Times New Roman', Times, serif;color
 p.name:hover {text-shadow: 2cm,black;border: 4cm;}
 p:hover {text-shadow: 2cm,olive;border: 4cm;}
 #giuseppeta {color: aqua;}
+#giuseppeta:hover{text-shadow: 2cm,black;border: 4cm;}
 #marcoita {color: aquamarine;}
 #group {color: blueviolet;}
 #fiametta {color: chocolate;}
